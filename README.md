@@ -4,7 +4,7 @@
 Desenvolvedora Backend
 ----------------------
 
-🎓 Concluí um curso de um ano focado no desenvolvimento web full Stack, onde explorei diversas áreas do desenvolvimento de software. Durante o curso, encontrei minha paixão pelo desenvolvimento backend e decidi me aprofundar nessa área.
+🎓 Concluí um curso de um ano na Trybe focado no desenvolvimento web full Stack, onde explorei diversas áreas do desenvolvimento de software. Durante o curso, encontrei minha paixão pelo desenvolvimento backend e decidi me aprofundar nessa área.
 
 💼 Atualmente, estou comprometida em aprimorar minhas habilidades como desenvolvedora backend, trabalhando em projetos desafiadores e buscando sempre aprender mais.
 
